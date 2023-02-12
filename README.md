@@ -1,24 +1,8 @@
-# restaurant_management
+# ***Python-Projects***
 
-## Project setup
-```
-npm install
-```
+*modules needed are
+tkinter
+pillow
+pygame*
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is a restaurant management system with the help of which an organization can easily handle their day to day task.
